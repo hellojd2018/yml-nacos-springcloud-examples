@@ -154,3 +154,14 @@ local.properties
 .worksheet
 consumer/src/test/
 provier/src/test/
+.idea/misc.xml
+.idea/yml-nacos-springcloud-examples.iml
+consumer/consumer.iml
+provier/provier.iml
+yml-nacos-springcloud-examples.iml
+yml-nacos-springcloud-examples.ipr
+/.idea/compiler.xml
+/.idea/vcs.xml
+.idea/compiler.xml
+.idea/vcs.xml
+/.idea/modules.xml
